@@ -1,5 +1,1 @@
-- hey guys, im shayan
-- im intrested in python language at the field of video processing,
-- im a trader too and an arduino developer,
-- i try to upload any code i want to write
-- 
+Passionate about Control Systems, IoT, and Mechatronics | CEO & Project Lead at Energy Pazhouhan Azarakhsh
